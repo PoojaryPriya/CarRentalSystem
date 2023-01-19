@@ -10,5 +10,7 @@ namespace backend.Data
 
         }
         public DbSet<UserClass> Users { get; set; }
+        public DbSet<AdminClass> Admin { get; set; }
+        public DbSet<CarsClass> Cars { get; set; }
     }
 }

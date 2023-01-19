@@ -1,0 +1,62 @@
+[
+	{
+		"BrandName": "BMW",
+		"Description": "Generally, the rental duration starts from the day and hour you sign the agreement with the person renting your car and runs through the agreed number of days until the car is returned to you in good order and condition.",
+		"DailyPrice": "2000",
+		"IsRentable": "true",
+		"Images": [
+			{
+				"Url": "./assets/images/car1.jpg",
+				"IsMain": true
+			}
+		]
+	},
+	{
+		"BrandName": "Ford",
+		"Description": "Generally, the rental duration starts from the day and hour you sign the agreement with the person renting your car and runs through the agreed number of days until the car is returned to you in good order and condition.",
+		"DailyPrice": "2500",
+		"IsRentable": "true",
+		"Images": [
+			{
+				"Url": "./assets/images/car1.jpg",
+				"IsMain": true
+			}
+		]
+	},
+	{
+		"BrandName": "Ford",
+		"Description": "Generally, the rental duration starts from the day and hour you sign the agreement with the person renting your car and runs through the agreed number of days until the car is returned to you in good order and condition.",
+		"DailyPrice": "3000",
+		"IsRentable": "true",
+		"Images": [
+			{
+				"Url": "./assets/images/car1.jpg",
+				"IsMain": true
+			}
+		]
+	},
+	{
+		"BrandName": "Audi",
+		"Description": "Generally, the rental duration starts from the day and hour you sign the agreement with the person renting your car and runs through the agreed number of days until the car is returned to you in good order and condition.",
+		"DailyPrice": "1500",
+		"IsRentable": "true",
+		"Images": [
+			{
+				"Url": "./assets/images/car1.jpg",
+				"IsMain": true
+			}
+		]
+	},
+	{
+		"BrandName": "Toyota",
+		"Description": "Generally, the rental duration starts from the day and hour you sign the agreement with the person renting your car and runs through the agreed number of days until the car is returned to you in good order and condition.",
+		"DailyPrice": "1500",
+		"IsRentable": "true",
+		"Images": [
+			{
+				"Url": "./assets/images/car1.jpg",
+				"IsMain": true
+			}
+		]
+	}
+]
